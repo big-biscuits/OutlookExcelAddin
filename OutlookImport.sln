@@ -5,8 +5,6 @@ VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "OutlookApplications", "OutlookApplications\OutlookApplications.vbproj", "{589EB4C4-0858-454B-9FA3-8599A6DD439A}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{4F365163-1CC9-49C7-9BC2-097F804CB116}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,8 +15,6 @@ Global
 		{589EB4C4-0858-454B-9FA3-8599A6DD439A}.Debug|Any CPU.Build.0 = Release|Any CPU
 		{589EB4C4-0858-454B-9FA3-8599A6DD439A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{589EB4C4-0858-454B-9FA3-8599A6DD439A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4F365163-1CC9-49C7-9BC2-097F804CB116}.Debug|Any CPU.ActiveCfg = Debug
-		{4F365163-1CC9-49C7-9BC2-097F804CB116}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
